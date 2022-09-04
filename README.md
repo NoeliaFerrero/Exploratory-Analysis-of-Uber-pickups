@@ -11,9 +11,9 @@ se utilizaron los puntos en los que los usuarios tomaron sus autos para reconstr
 Resulta sorprendente como se pueden utilizar estos datos para reconstruir un mapa!
 
 # Map #1
-![Image text](https://github.com/nicoambrosis/Uber-stats-maps/blob/main/UBER_Manhatam.png)
+![Image text](https://github.com/NoeliaFerrero/Uber-stats-maps/blob/main/UBER_Manhatam.png)
 
 # Map #2
-![Image text](https://github.com/nicoambrosis/Uber-stats-maps/blob/main/UBER_Manhatam_zoom_2.png)
+![Image text](https://github.com/NoeliaFerrero/Uber-stats-maps/blob/main/UBER_Manhatam_zoom_2.png)
 
-Este proyecto fue tomando como base este [tutorial](https://www.youtube.com/watch?v=Q73ADVZCqSU), pero también adicionando ideas y códigos míos.
+Este proyecto fue tomado como base de este [tutorial](https://www.youtube.com/watch?v=Q73ADVZCqSU), pero también se adicionaron ideas y códigos propios.
